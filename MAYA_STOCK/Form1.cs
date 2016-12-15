@@ -26,7 +26,12 @@ namespace MAYA_STOCK
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("abu rafeeq kiss my ass");
+            MessageBox.Show("abu mahfooz hemar kiss my ass");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
