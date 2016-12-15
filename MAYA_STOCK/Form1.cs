@@ -16,5 +16,10 @@ namespace MAYA_STOCK
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
