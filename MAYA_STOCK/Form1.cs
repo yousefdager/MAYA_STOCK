@@ -21,5 +21,11 @@ namespace MAYA_STOCK
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Message();
+
+        }
     }
 }
